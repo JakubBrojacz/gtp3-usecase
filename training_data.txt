@@ -1,0 +1,53 @@
+I am an intelligent assistant that can generate personal profile given work experience:
+
+Input: 
+MSc in Data Science and Analysis at University of Leeds
+BTech in Information Technology at Institute of Technology and Science
+Machine Learning Intern
+python, web developement, algorithms, ML, data engineering
+
+Output:
+A Master’s student at the University of Leeds, undertaking the Data Science and Analysis course. Zealous about software engineering and with 1+ years of experience specialising in machine learning, python development, algorithms, and full-stack web development. Primarily, looking for Machine Learning/Data Engineer/Python Developer roles.
+
+Input:
+Computer Vision / Machine Learning Engineer at Google
+ME in Electronic and Computer Engineering at the University of Manchester
+Python, tensorflow, keras, Computer Vision, deep learning, fine tuning, new technologys
+working with clients
+model optimisation
+
+Output:
+An experienced Computer Vision, Machine Learning Engineer with success in leading and implementing projects on re-training and deploying deep learning models. Applies problem solving and innovation to adopt the latest quantization and sparsity techniques to optimise model speed and power consumption, while preserving state of the art inference accuracy and presented results to key stakeholders. Re-trained models for classification, object detection and instance segmentation using Tensorflow and Keras with strong attention to detail in underfitting and overfitting.
+
+Input: 
+Research and Development Engineer at NCBI
+Operations Administrator at ASM International
+Pharmacy Technician at Medicover
+cell culture, animal work, cryo-imaging, research skills
+goal oriented, tolerant, 
+
+Output:
+A highly experienced medical and scientific professional with a background of working in research and development of medical devices. Skilled in cell culture, animal work and cryo-imaging and able to find common ground and mutual respect with people from diverse backgrounds and cultural differences in large multidisciplinary teams.  Extremely organised and goal oriented with excellent research skills demonstrated while delivering and completing numerous reviews and projects.
+
+Input:
+Organisation of administration
+Technical tax assistance
+Proficiency in Excel, Word, Powerpoint
+Good at working under pressure
+International Tax Consultant at Deloitte
+
+Output:
+An International Tax Consultant, with Big 4 firm training and vast experience in custody and fund administration organisations in a client facing capacity.  Provides technical tax assistance to clients and across businesses, with excellent communication and presentation skills.  A strong ability to meet and exceed multiple targets and deadlines, able to work in a highly effective manner with peers across international teams.
+
+Input:
+IT professional at EnelMED
+designing websites, managing databases
+interpersonal skills
+looking to learn, self-training
+
+Output:
+I am a highly competent IT professional with a proven track record in designing websites, networking and managing databases. I have strong technical skills as well as excellent interpersonal skills, enabling me to interact with a wide range of clients. I am eager to be challenged in order to grow and further improve my IT skills. My greatest passion is in life is using my technical know-how to benefit other people and organisations.
+
+Input: {}
+
+Output:
